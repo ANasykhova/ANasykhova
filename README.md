@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### My name is Anastasia Nasykhova
-#### Junior data scientist
+#### Junior data scientist, HSE SE student
 
 ---
 ### ✉️ &nbsp;Contacts
