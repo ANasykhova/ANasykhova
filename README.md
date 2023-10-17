@@ -14,6 +14,8 @@
 
 - Curator, senior moderator and expert on writing solutions at Umschool (2020 - 2021)
 - Teaching Assistant on bachelors course [«Applied methods of mathematical statistics»](https://www.hse.ru/ba/se/courses/646517012.html) (2023 - ...)
+- Teaching Assistant on bachelors course [«Mathematical Methods for Data Analysis»](https://www.hse.ru/ba/se/courses/836733955.html) (2023 - ...)
+- Teaching Assistant on bachelors course [«Economics of Software Engineering»](https://www.hse.ru/ba/se/courses/836721958.html) (2023 - ...)
 
 ---
 ### 🎓 &nbsp;Education
