@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### My name is Anastasia Nasykhova
-#### Junior data scientist, HSE SE student
+#### Junior data scientist, HSE FCS (SE) alumni, HSE FCS (DS) master program student
 
 ---
 ### ✉️ &nbsp;Contacts
@@ -13,14 +13,16 @@
 ### 🛠 &nbsp;Work experience
 
 - Curator, senior moderator and expert on writing solutions at Umschool (2020 - 2021)
-- Teaching Assistant on bachelors course [«Applied methods of mathematical statistics»](https://www.hse.ru/ba/se/courses/646517012.html) (2023 - ...)
+- Teaching Assistant on bachelors course [«Applied methods of mathematical statistics»](https://www.hse.ru/ba/se/courses/646517012.html) (2023)
 - Teaching Assistant on bachelors course [«Mathematical Methods for Data Analysis»](https://www.hse.ru/ba/se/courses/836733955.html) (2023 - ...)
-- Teaching Assistant on bachelors course [«Economics of Software Engineering»](https://www.hse.ru/ba/se/courses/836721958.html) (2023 - ...)
+- Teaching Assistant on bachelors course [«Economics of Software Engineering»](https://www.hse.ru/ba/se/courses/836721958.html) (2023)
+- Teaching Assistant on bachelors course [«Software Quality Assurance and Testing»](https://www.hse.ru/ba/se/courses/900062864.html) (2024)
 
 ---
 ### 🎓 &nbsp;Education
 
-- Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"], Faculcty of Computer Science
+- 2024 Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"], Faculcty of Computer Science
+- 2026 Master degree of Applied Maths and Informatics at [National Research University "Higher School of Economics"], Faculcty of Computer Science
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
