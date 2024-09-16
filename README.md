@@ -21,8 +21,8 @@
 ---
 ### 🎓 &nbsp;Education
 
-- 2024 Bachelor degree of Software Engineering at [National Research University "Higher School of Economics"], Faculcty of Computer Science
-- 2026 Master degree of Applied Maths and Informatics at [National Research University "Higher School of Economics"], Faculcty of Computer Science
+- 2024 Bachelor degree of Software Engineering at [National Research University "Higher School of Economics" Software Engineering](https://www.hse.ru/ba/se/), Faculcty of Computer Science
+- 2026 Master degree of Applied Maths and Informatics at [National Research University "Higher School of Economics" Data Science](https://www.hse.ru/ma/datasci/), Faculcty of Computer Science
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
