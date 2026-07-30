@@ -12,34 +12,31 @@
 
 ### 🛠  Work experience
 
-- **Стажёр-исследователь**, НИУ ВШЭ, Международная лаборатория интеллектуальных систем *(2025 – 2026)*
-  - Работала над проектом по построению интерпретируемых онтологий с использованием LLM
-  - Разработала пайплайн автоматического построения семантической иерархии без ручной разметки
-  - Применила контрастивное обучение с hard negatives для решения проблемы анизотропии эмбеддингов — рост NMI до 0.68 и ARI до 0.28
-  - Внедрила онтологию в задачу NER, что улучшило Macro F1 с 0.77 до 0.83
+- **Research Intern**, HSE University, International Laboratory of Intelligent Systems (2025 – 2026)
+  - Developed a pipeline for automatic construction of semantic hierarchies using contrastive learning with hard negatives
+  - Integrated the ontology into a NER task
 
-- **Стажёр-разработчик**, Т-Банк, команда автоматизации саппорта *(укажи год)*
-  - Создала пайплайн сбора датасета чатов с изображениями для обучения ML-модели классификации картинок
-  - Проводила валидацию гипотез по улучшению качества модели
-  - Улучшила точность распознавания намерений клиентов через расширение индекса реранкера
+- **ML-Engineer Intern**, T-Bank, Support Automation team (2026)
+  - Built a pipeline for collecting a dataset of chat images to train an ML image-classification model
+  - Ran hypothesis validation experiments to improve model quality
+  - Improved customer-intent recognition accuracy by extending the reranker index
 
 - Teaching Assistant on bachelor and master courses:
-  - [«Applied methods of mathematical statistics»](https://www.hse.ru/ba/se/courses/646517012.html) (2023)
+  - [«Modern Methods of Data Analysis»](https://www.hse.ru/ma/datasci/courses/1048819225.html) (2026)
+  - [«Algorithms and Data Structures for Interviews»](https://www.hse.ru/edu/courses/1048889704) (2025 – 2026)
+  - [«Ordered Sets in Data Analysis»](https://www.hse.ru/ma/datasci/courses/1048819200.html) (2025)
+  - [«Software Quality Assurance and Testing»](https://www.hse.ru/ba/se/courses/900062864.html) (2024 – 2025)
   - [«Mathematical Methods for Data Analysis»](https://www.hse.ru/ba/se/courses/836733955.html) (2023 – 2024)
   - [«Economics of Software Engineering»](https://www.hse.ru/ba/se/courses/836721958.html) (2023 – 2024)
-  - [«Software Quality Assurance and Testing»](https://www.hse.ru/ba/se/courses/900062864.html) (2024 – 2025)
-  - «Modern Decision Making: Applied Machine Learning» (2022)
-  - «Упорядоченные множества в анализе данных» (2025)
-  - «Современные методы анализа данных» (2026)
-  - «Алгоритмы и структуры данных для собеседований» (2025 – 2026)
+  - [«Applied methods of mathematical statistics»](https://www.hse.ru/ba/se/courses/646517012.html) (2023)
 
 - Curator, senior moderator and expert on writing solutions at Umschool (2020 – 2021)
 
 ---
 
 ### 🎓  Education
-- 2024 — Bachelor degree of Software Engineering, [HSE Software Engineering](https://www.hse.ru/ba/se/), Faculty of Computer Science
-- 2026 — Master degree of Applied Maths and Informatics, [HSE Data Science](https://www.hse.ru/ma/datasci/), Faculty of Computer Science
+- 2024 — Bachelor's degree in Software Engineering, [HSE Software Engineering](https://www.hse.ru/ba/se/), Faculty of Computer Science
+- 2026 — Master's degree in Applied Mathematics and Informatics, [HSE Data Science](https://www.hse.ru/ma/datasci/), Faculty of Computer Science
 
 ---
 
